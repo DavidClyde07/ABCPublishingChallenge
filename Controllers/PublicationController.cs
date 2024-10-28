@@ -22,5 +22,10 @@ namespace ABCPublishingChallenge.Controllers
 
             return Ok(data);
         }
+
+        //public IActionResult Navigation()
+        //{
+        //    return View();
+        //}
     }
 }
